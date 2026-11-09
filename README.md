@@ -110,7 +110,7 @@ Project Facilitator: Dr. Bob Lawlor, Dept. of Electronic Engineering, Maynooth U
 
 ### Do our image below
 
-![Embedded report figure](assets/figure-03.jpg)
+![Embedded report figure](https://github.com/Clinton-Nkpa/Wireless-Power-Transfer-device/blob/main/figure-03.jpg)
 
 
 *Figure 2-1 Diagram of Wireless Christmas Tree Light system with hidden power transmitter*
@@ -161,7 +161,7 @@ One of the main considerations to be made when choosing and project and field of
 The market potential for wireless power transmission is enormous. In today’s modern world wired mobile phone chargers are constantly used everyday and everywhere and have been around for over than 10 decades[reference].This is hugly because of the increased efficiency that they give which becomes an enormous factor for being advantageous. However with that being said ,wires are hazardous, and an interference to our everyday lives. Wireless power is the solution and although the market is very much full of potential, it is on the verge of an enormous explosion. Generally speaking wireless power transfer continues to grow at an accelerated rate, we can see this from the large influence it has on applications such as mobile phones, pacemakers for heart patients [reference] and even military devices [reference]. In contemporary times the wireless power transmission market has grown to develop its intricate technology so that its efficiency can increase.Initially the efficiency of wireless power transmission was approximately 65%[reference] but advancements in technology have made it so that it has increased from 65 to almost 85%[reference]. With this increase in efficiency, each year the wireless power transmission market is estimated to grow almost 200 million a year on year.This means that from the period of 2014 - 2019 the market revenue in total amounts to $17.04 Billion at a compound annual growth rate (CAGR) of 60.49% for 2014 to 2019[reference].The following figure shows this market trend [1].
 
 
-![Embedded report figure](assets/figure-12.png)
+![Embedded report figure](https://github.com/Clinton-Nkpa/Wireless-Power-Transfer-device/blob/main/figure-12.png)
 
 show the calculation of the cagr
 
@@ -190,17 +190,17 @@ How much would you pay for it
 The feedback achieved was very much beneficial has it showed that there definitely was quite a demand for Wireless Charging in Mobile phones.The reasons why the students were interested in the product ranged from it being easy to use, convenient and universal and being much safer (reducing the chance of hazardous situations).The graphs of these surveys are below while the the data of these surveys are included in the appendix.
 
 
-![Embedded report figure](assets/figure-13.png)
+![Embedded report figure](https://github.com/Clinton-Nkpa/Wireless-Power-Transfer-device/blob/main/figure-13.png)
 
 Our first graph here is a simple pie chart showing what number of students currently have wireless chargers and only 1 person said they used a wireless charger regularly
 
 
-![Embedded report figure](assets/figure-08.png)
+![Embedded report figure](https://github.com/Clinton-Nkpa/Wireless-Power-Transfer-device/blob/main/figure-08.png)
 
 After explaining our product to multiple people, we then asked if they would be interested in purchasing a universally compatible wireless charger and we got an overwhelmingly positive response with the few people saying no claiming that wireless charging simply does not interest them or that it is inefficient.
 
 
-![Embedded report figure](assets/figure-10.png)
+![Embedded report figure](https://github.com/Clinton-Nkpa/Wireless-Power-Transfer-device/blob/main/figure-10.png)
 
 Finally we asked each person what they would be willing to pay for our product and we got a rather split result with some people claiming it should cost the same as a standard charger and others saying that such an innovation would be worth the 3 digit mark.
 
@@ -394,7 +394,7 @@ If we were to focus on portable chargers for example we would be targeting a con
 4*
 
 
-![Embedded report figure](assets/figure-06.png)
+![Embedded report figure](https://github.com/Clinton-Nkpa/Wireless-Power-Transfer-device/blob/main/figure-06.png)
 
 For example, this graph shows the phone battery of an Iphone 7 and how it discharges based on what kind of task its performing.
 
@@ -489,12 +489,12 @@ Not all devices are compatible: not all phones and tablets are compatible due to
 with that report a market prediction was provided to show what the expectation was to be for the market today
 
 
-![Embedded report figure](assets/figure-12.png)
+![Embedded report figure](https://github.com/Clinton-Nkpa/Wireless-Power-Transfer-device/blob/main/figure-12.png)
 
 QI: In 2008 QI was formed is an attempt to create a universal standard amongst inductive chargers and devised so that not every individual unit requires its own unique charger, larger companies like Samsung and Apple and trying to incorporate this into their more modern designs, if this is successful if would make wireless more convenient due to there being less different chargers as compared to wired.
 
 
-![Embedded report figure](assets/figure-05.png)
+![Embedded report figure](https://github.com/Clinton-Nkpa/Wireless-Power-Transfer-device/blob/main/figure-05.png)
 
 Advancements like this can lead to chargers hidden within café tables and access to other potentially public charging ports instead on needing extension leads and plugs.
 
@@ -509,7 +509,7 @@ https://www.independent.co.uk/life-style/gadgets-and-tech/news/mcdonalds-is-intr
 https://www.globenewswire.com/news-release/2018/08/07/1547823/0/en/The-Global-Market-for-Mobile-Chargers-to-Reach-25-0-Billion-by-2022.html
 
 
-![Embedded report figure](assets/figure-07.png)
+![Embedded report figure](https://github.com/Clinton-Nkpa/Wireless-Power-Transfer-device/blob/main/figure-07.png)
 
 https://gs.statcounter.com/vendor-market-share/mobile/ireland
 
