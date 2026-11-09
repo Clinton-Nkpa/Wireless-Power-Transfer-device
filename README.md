@@ -22,17 +22,7 @@ The proposal discusses coupled induction coils, resonant/dipole-coil concepts, n
 ---
 
 
-![Embedded report figure](assets/figure-01.png)
 
-
-**Authors**
-- Mr. Christopher Fenton
-- Mr. Ciarán Bannon
-- Mr. Dylan Malone Stuart
-- Mr. Enrico Marugliano
-- Mr. Fortune Anyanwu
-- Ms. Lisa Byrne
-- Mr. Shashank R. Chakerwarti
 
 ## Contents
 
