@@ -4,24 +4,6 @@ Built and iteratively tested a prototype wireless power-transfer system for low-
 
 # EE299 — Wireless Power Transfer Project Report
 
-> Source document: `EE299.docx` (41-page Word document). This Markdown edition preserves the source's wording, section sequence, tables, and embedded figures as closely as practical. Editorial corrections and technical verification have **not** been applied.
-
-## Project identity and scope
-
-The document presents a business proposal for a wireless-power venture. It uses the names **WiLux**, **Wirend**, and references **Saor** in different places. Its product discussion shifts between a universal wireless mobile-phone charger and a resonant wireless Christmas-tree lighting concept. These inconsistencies are retained rather than silently reconciled.
-
-The proposal discusses coupled induction coils, resonant/dipole-coil concepts, near-field and far-field transfer, Qi compatibility, market research, competition, staffing, ethics, and business projections. It should be read as a historical student proposal, with many market figures and product references dated around 2017–2019—not as a verified description of current wireless-charging technology.
-
-## Important source limitations
-
-- The document contains visible drafting notes and placeholders (for example, missing reference links and requests to add calculations).
-- Some technical statements are presented as plans or aspirations, not demonstrated experimental results.
-- The text includes claims about efficiency, range, safety, and standards that have not been independently validated here.
-- The source's survey results are small-scale and based on Maynooth University engineering students; they should not be generalized to the entire market.
-
----
-
-
 
 
 ## Contents
